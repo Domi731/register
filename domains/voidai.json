@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "Domi731",
+        "email": "deine-email@example.com"
+    },
+    "record": {
+        "CNAME": "DEINE-RENDER-URL.onrender.com"
+    }
+}
